@@ -1,0 +1,4 @@
+lim={'korean':94,'english':91,'mathmatics':89,'science':83}
+
+for i in lim.items():
+    print(i, end=' ')

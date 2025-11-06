@@ -1,0 +1,5 @@
+keys = input().split()
+value = input().split()
+
+x=dict(zip(keys, map(int, value)))
+print(x)

@@ -1,0 +1,4 @@
+kim={'korean':94,'english':91,'mathmatics':89,'science':83}
+kim.update(korean=100, english=100, mathmatics=100, scince=100)
+print(kim)
+    

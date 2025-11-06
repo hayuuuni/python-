@@ -1,0 +1,3 @@
+choi={'korean':94,'english':91,'mathmatics':89,'science':83}
+choi={key for key, value in choi.items() if value >= 90}
+print(choi)
